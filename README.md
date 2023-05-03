@@ -1,4 +1,4 @@
-# PDCsInBNNs
+# Eine empirische Analyse von Prior-Daten Konflikten in Bayesianischen neuronalen Netzen
 This Repository contains the necessary code to reproduce the results from the bachelors thesis "Eine empirische Analyse von Prior-Daten Konflikte in Bayesianischen neuronalen Netzen".
 
 ## Contents
